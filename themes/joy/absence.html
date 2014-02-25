@@ -1,0 +1,24 @@
+{% extends "template.html" %}
+{% block title %}
+Absence
+{% endblock %}
+{% block description %}
+{% endblock %}
+{% block content %}
+<form role="form" method="get" action="absence.php">
+    <div class="form-group">
+        <label for="date">Date</label>
+        <input type="date" class="form-control" id="date" name="date" placeholder="Date">
+
+    </div>
+
+    {% for member in data %}
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name={{ member.id }} value="1"> {{ member.firstName }}  {{ member.lastName }}
+        </label>
+    </div>
+    {% endfor %}
+    <button type="submit" class="btn btn-default">Save</button>
+</form>
+{% endblock %}

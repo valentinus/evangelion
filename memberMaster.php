@@ -13,8 +13,11 @@ $twig = new Twig();
 $konstanta = new Konstanta();
 $db = new Database();
 $dbh = $db->init();
+$firstName = isset($_GET["firstName"])?$_GET["firstName"]:"";
 
-if ($_GET["firstName"] != "") {
+if ($firstName != "") {
+    //TODO : Search if those name already input or not
+
     $stmt = $dbh->prepare("INSERT INTO `church_member`(`first_name`,`last_name`)
             VALUES (:firstName, :lastName)");
 
@@ -25,4 +28,4 @@ if ($_GET["firstName"] != "") {
     $stat = $stmt->execute();
 } else {
     $twig->display("membermaster.html");
-}
+ }
