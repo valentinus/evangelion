@@ -23,78 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="memberMaster.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/memberMaster.php">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/joy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="4" selection-start="700" selection-end="736" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <marker date="1393300276303" expanded="true" signature="392:488" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="absence.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/absence.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="476">
-              <folding>
-                <element signature="e#6#46#0" expanded="true" />
-                <marker date="1393301293715" expanded="true" signature="251:280" placeholder="SELECT * FRO..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="membermaster.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/joy/membermaster.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="64" selection-start="0" selection-end="693" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="absence.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/joy/absence.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="259" selection-end="259" vertical-scroll-proportion="0.31423292" vertical-offset="0" max-vertical-offset="541">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="konstanta.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/konstanta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="0" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="1632">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="twig.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/twig.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+            <state line="7" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -103,16 +35,34 @@
       <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/joy/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="905" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="544">
+            <state line="41" column="25" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-8.538462" vertical-offset="475" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/joy/index.html">
+      <file leaf-file-name="departmentMaster.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/departmentMaster.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="0" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="membermaster.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/joy/membermaster.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="7" selection-start="0" selection-end="693" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="departmentMaster.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/joy/departmentMaster.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="28" selection-start="231" selection-end="231" vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
               <folding />
             </state>
           </provider>
@@ -128,16 +78,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/themes/joy/template.html" />
         <option value="$PROJECT_DIR$/lib/twig.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/themes/joy/index.html" />
         <option value="$PROJECT_DIR$/lib/db.php" />
         <option value="$PROJECT_DIR$/lib/konstanta.php" />
         <option value="$PROJECT_DIR$/themes/joy/membermaster.html" />
         <option value="$PROJECT_DIR$/memberMaster.php" />
         <option value="$PROJECT_DIR$/absence.php" />
         <option value="$PROJECT_DIR$/themes/joy/absence.html" />
+        <option value="$PROJECT_DIR$/themes/joy/index.html" />
+        <option value="$PROJECT_DIR$/themes/joy/template.html" />
+        <option value="$PROJECT_DIR$/themes/joy/departmentMaster.html" />
       </list>
     </option>
   </component>
@@ -247,8 +198,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -256,7 +207,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1918429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19486405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -264,11 +215,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -287,9 +238,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25755286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -311,10 +262,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/memberMaster.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="21" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+        <state line="29" column="4" selection-start="700" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/absence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="476">
           <folding>
-            <marker date="1393300276303" expanded="true" signature="392:488" placeholder="INSERT INTO ..." />
+            <marker date="1393301293715" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/membermaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="64" selection-start="0" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/absence.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/konstanta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/twig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="905" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="0" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memberMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -370,9 +391,7 @@
     <entry file="file://$PROJECT_DIR$/memberMaster.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="31" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="561">
-          <folding>
-            <marker date="1393300276303" expanded="true" signature="392:488" placeholder="INSERT INTO ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -428,9 +447,7 @@
     <entry file="file://$PROJECT_DIR$/memberMaster.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-          <folding>
-            <marker date="1393300276303" expanded="true" signature="392:488" placeholder="INSERT INTO ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -455,30 +472,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/joy/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="905" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/twig.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/joy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="0" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
           <folding />
         </state>
       </provider>
@@ -497,35 +493,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/memberMaster.php">
+    <entry file="file://$PROJECT_DIR$/themes/joy/absence.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="4" selection-start="700" selection-end="736" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <marker date="1393300276303" expanded="true" signature="392:488" placeholder="INSERT INTO ..." />
-          </folding>
+        <state line="10" column="8" selection-start="259" selection-end="259" vertical-scroll-proportion="0.31423292" vertical-offset="0" max-vertical-offset="541">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/joy/membermaster.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="64" selection-start="0" selection-end="693" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="408">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/absence.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="476">
+        <state line="9" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="0.18149467" vertical-offset="0" max-vertical-offset="562">
           <folding>
-            <element signature="e#6#46#0" expanded="true" />
-            <marker date="1393301293715" expanded="true" signature="251:280" placeholder="SELECT * FRO..." />
+            <marker date="1393301293715" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/joy/absence.html">
+    <entry file="file://$PROJECT_DIR$/memberMaster.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="259" selection-end="259" vertical-scroll-proportion="0.31423292" vertical-offset="0" max-vertical-offset="541">
+        <state line="29" column="4" selection-start="700" selection-end="736" vertical-scroll-proportion="0.78647685" vertical-offset="0" max-vertical-offset="562">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="25" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-8.538462" vertical-offset="475" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/departmentMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/membermaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="0" selection-end="693" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/joy/departmentMaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="231" selection-end="231" vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
           <folding />
         </state>
       </provider>
