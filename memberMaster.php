@@ -26,6 +26,8 @@ if ($firstName != "") {
     $stmt->bindParam(':lastName',$lastName);
 
     $stat = $stmt->execute();
+
+    $twig->display("membermaster.html",array("stat"=>$stat));
 } else {
     $twig->display("membermaster.html");
  }

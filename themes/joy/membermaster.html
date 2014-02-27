@@ -5,6 +5,17 @@ Member master page
 {% block description %}
 {% endblock %}
 {% block content %}
+
+{% if stat == 1 %}
+    <div class="alert alert-success">
+        Data was saved successfully
+    </div>
+{% else %}
+    <div class="alert alert-danger">
+        Data was not saved
+    </div>
+{% endif %}
+
 <form role="form" method="get" action="membermaster.php">
     <div class="form-group">
         <label for="firstName">First Name</label>
