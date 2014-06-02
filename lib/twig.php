@@ -1,12 +1,11 @@
 <?php
 /**
  * User: Freddy
- * Date: 2/24/14
  */
 
 class Twig{
     function display($destination,$data=""){
-        include_once "lib/twig1_15/lib/Twig/Autoloader.php";
+        include_once "vendor/twig/twig/lib/Twig/Autoloader.php";
 
         try {
             Twig_Autoloader::register();
@@ -17,7 +16,6 @@ class Twig{
             else
                 echo $twig->render($destination,$data);
         } catch(Exception $e) {
-            //mail("fkresna@gmail.com","Twig error  $destination","$e");
             echo $e;
         }
     }
